@@ -1,10 +1,13 @@
 ### Hello There! 👋
 
-• My name is Jason Clegg! I am currently a student at Lambda School, studying Full Stack Web Development.
+• My name is [Jason Clegg](https://www.linkedin.com/in/jason-clegg-42035a1aa/)! I am currently a student at Lambda School, studying Full Stack Web Development.
 
-• I have worked on multiple projects, ranging from Frontend, Backend, and Algorithms.
+• I have worked on multiple projects, including (but not limitied to) Frontend, Backend, and Algorithms.
 
 • I am currently working on free-lance projects and brushing up on my coding skills!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-clegg-42035a1aa/)
+[![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:tjason.clegg@gmail.com)</br>
 
 <h2 align="center">Tech Stack</h2>
 
